@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "silentport"
+  },
+  "bugs": {
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A vue component for h5 video",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "chai": "^4.2.0",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "keywords": [
+    "vue-video",
+    "vue-h5",
+    "vue-player"
+  ],
+  "license": "ISC",
+  "main": "dist/h5-video.js",
+  "name": "vue-h5-video-fork",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {},
+  "version": "1.1.6"
+}
