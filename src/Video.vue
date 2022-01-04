@@ -11,6 +11,8 @@
       @loadedmetadata.once="preparePlay"
       @error="errorHandler"
       @timeupdate="progressHandler"
+      webkit-playsinline="true"
+      playsinline="true"
     >
       <source v-for="(item, index) in sources" :key="index" :src="item">
     </video>

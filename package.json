@@ -2,8 +2,7 @@
   "author": {
     "name": "silentport"
   },
-  "bugs": {
-  },
+  "bugs": {},
   "bundleDependencies": false,
   "deprecated": false,
   "description": "A vue component for h5 video",
